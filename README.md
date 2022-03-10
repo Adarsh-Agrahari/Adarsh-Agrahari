@@ -15,8 +15,9 @@
 <a href="https://www.instagram.com/_adarsh_agrahari/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
-
+<a href="https://www.hackerrank.com/adarshagrahari05?hr_r=1" target="blank"><img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adarshagrahari05"/>
+</a>
 <br />
 <br />
-
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Adarsh-Agrahari.Adarsh-Agrahari)
