@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Adarsh !](https://github.com/Adarsh-Agrahari) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Adarsh !](https://github.com/Adarsh-Agrahari) 
 
 ### Connect with me:
 <div align=left>
