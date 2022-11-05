@@ -33,3 +33,8 @@
 [![My Holopin board](https://holopin.me/adarsh0503)](https://holopin.io/@adarsh0503)
 [![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adarsh-Agrahari&theme=react-dark)](https://github.com/Adarsh-Agrahari)
 </div>
+
+<div align=center>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh-Agrahari&theme=onedark)](https://github.com/Adarsh-Agrahari/github-profile-trophy)
+</div>
