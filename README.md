@@ -24,6 +24,12 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Agrahari&langs_count=6&hide_border=false&border_radius=15&card_width=297&layout=compact&theme=react&show_icons=true)](https://github.com/Adarsh-Agrahari)
 </div>
 
+ 
+<div align=center>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh-Agrahari&theme=onedark)](https://github.com/Adarsh-Agrahari/github-profile-trophy)
+</div>
+ 
 ## Top Repository :
 <div width="100%" align="center"><a href="https://github.com/Adarsh-Agrahari/tic-tac-toe" align="left"><img align="left"" src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Agrahari&repo=tic-tac-toe&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
   
@@ -34,7 +40,3 @@
 [![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adarsh-Agrahari&theme=react-dark)](https://github.com/Adarsh-Agrahari)
 </div>
 
-<div align=center>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh-Agrahari&theme=onedark)](https://github.com/Adarsh-Agrahari/github-profile-trophy)
-</div>
