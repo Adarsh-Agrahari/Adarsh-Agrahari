@@ -26,3 +26,10 @@
 
 ## Top Repository :
 <div width="100%" align="center"><a href="https://github.com/Adarsh-Agrahari/tic-tac-toe" align="left"><img align="left"" src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Agrahari&repo=tic-tac-toe&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+  
+## Hacktoberfest 2022 Contribution Badges :
+<div align="center">
+
+[![My Holopin board](https://holopin.me/adarsh0503)](https://holopin.io/@adarsh0503)
+[![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adarsh-Agrahari&theme=react-dark)](https://github.com/Adarsh-Agrahari)
+</div>
