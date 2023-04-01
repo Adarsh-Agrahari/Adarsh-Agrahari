@@ -37,6 +37,11 @@
 <div align="center">
 
 [![My Holopin board](https://holopin.me/adarsh0503)](https://holopin.io/@adarsh0503)
-[![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adarsh-Agrahari&theme=react-dark)](https://github.com/Adarsh-Agrahari)
+<!-- [![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adarsh-Agrahari&theme=react-dark)](https://github.com/Adarsh-Agrahari) -->
 </div>
 
+<div align=center>
+   <a href="https://github.com/Adarsh-Agrahari">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Adarsh-Agrahari&theme=react-dark&hide_border=true" />
+   </a>
+</div>
