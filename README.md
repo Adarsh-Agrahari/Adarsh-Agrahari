@@ -17,31 +17,34 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Adarsh-Agrahari.Adarsh-Agrahari)
 
 ## Github Stats :
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Agrahari&count_private=true&show_icons=true&border_radius=15&theme=dark&include_all_commits=true" alt="stats"width=49% height=100%/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Agrahari&border_radius=15&theme=dark" alt="Streak"width=49% height=100%/>
-    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Agrahari&langs_count=6&hide_border=false&border_radius=15&card_width=297&layout=compact&theme=react&show_icons=true)](https://github.com/Adarsh-Agrahari)
-</div>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Adarsh-Agrahari&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000">
+  <!-- &hide=issues,contribs -->
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Agrahari&layout=compact&hide_border=true&theme=vision-friendly-dark&bg_color=00000000&langs_count=8">
+  <!-- &hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI -->
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Adarsh-Agrahari&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
  
 <div align=center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh-Agrahari&theme=onedark)](https://github.com/Adarsh-Agrahari/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh-Agrahari&theme=onedark)](https://github.com/Adarsh-Agrahari/github-profile-trophy) -->
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Agrahari&hide_border=true&theme=github-compact&bg_color=FFFFFF00&color=e1dbe1&line=8042fc&point=ffb000&area=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
  
 ## Top Repository :
-<div width="100%" align="center"><a href="https://github.com/Adarsh-Agrahari/tic-tac-toe" align="left"><img align="left"" src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Agrahari&repo=tic-tac-toe&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-  
+
+<div width="50%" align="center">
+<div> <a href="https://github.com/Adarsh-Agrahari/tic-tac-toe" align="left"><img align="left"" src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Agrahari&repo=tic-tac-toe&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=FFFFFF00&hide_border=true&locale=en" /></a></div>
+
+</div><br /><br /><br /><br /><br /><br />
+
 ## Hacktoberfest 2022 & 2023 Contribution Badges :
 <div align="center">
 
 [![My Holopin board](https://holopin.me/adarsh0503)](https://holopin.io/@adarsh0503)
-<!-- [![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adarsh-Agrahari&theme=react-dark)](https://github.com/Adarsh-Agrahari) -->
 </div>
 
-<div align=center>
-   <a href="https://github.com/Adarsh-Agrahari">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Adarsh-Agrahari&theme=react-dark&hide_border=true" />
-   </a>
-</div>
