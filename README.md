@@ -35,12 +35,12 @@
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Agrahari&hide_border=true&theme=github-compact&bg_color=FFFFFF00&color=e1dbe1&line=8042fc&point=ffb000&area=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
  
-## Top Repository :
+<!-- ## Top Repository :
 
 <div width="50%" align="center">
 <div> <a href="https://github.com/Adarsh-Agrahari/tic-tac-toe" align="left"><img align="left"" src="https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Agrahari&repo=tic-tac-toe&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=FFFFFF00&hide_border=true&locale=en" /></a></div>
 
-</div><br /><br /><br /><br /><br /><br />
+</div><br /><br /><br /><br /><br /><br /> -->
 
 ## Hacktoberfest 2022 & 2023 Contribution Badges :
 <div align="center">
