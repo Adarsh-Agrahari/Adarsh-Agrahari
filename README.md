@@ -19,7 +19,7 @@
 ## Github Stats :
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Adarsh-Agrahari&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Adarsh-Agrahari&rank_icon=github&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000">
   <!-- &hide=issues,contribs -->
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Agrahari&layout=compact&hide_border=true&theme=vision-friendly-dark&bg_color=00000000&langs_count=8">
   <!-- &hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI -->
