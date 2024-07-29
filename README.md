@@ -42,9 +42,9 @@
 
 </div><br /><br /><br /><br /><br /><br /> -->
 
-## Hacktoberfest 2022 & 2023 Contribution Badges :
+<!--## Hacktoberfest 2022 & 2023 Contribution Badges :
 <div align="center">
 
 [![My Holopin board](https://holopin.me/adarsh0503)](https://holopin.io/@adarsh0503)
-</div>
+</div>-->
 
